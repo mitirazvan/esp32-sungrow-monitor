@@ -1,0 +1,6 @@
+# Arduino / VS Code build output and local settings
+build/
+.vscode/
+*.bin
+*.elf
+*.map
